@@ -1,0 +1,54 @@
+#mainNav {
+    margin: 50px;
+    border: none;
+    background-color: #3826da3a;
+    font-family: "Helvetica Narrow", sans-serif;
+}
+.logo{
+    padding-left: 30em;
+}
+.logoN{
+    padding-left: 35em;
+}
+.paragrafo {
+    text-indent: 4em;
+}
+.form{
+    display: block;
+    margin-bottom: 5px;
+    box-sizing: content-box;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px
+}
+.comentarios{
+    box-sizing: content-box;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px
+}
+.comentarios ul{
+    padding: 50px;
+    list-style: none;
+}
+.comentarios li{
+    margin-left: -30px;
+    align-items: center;
+    overflow-wrap: break-word;
+    word-wrap: break-word
+}
+.form input, .form textarea {
+    padding: 12px 16px;
+    display: inline-block;
+    box-sizing: border-box;
+    border: 1px solid;
+    margin-bottom: 20px #ddd;
+}
+
+.form input {
+    margin-bottom: 20px;
+}
